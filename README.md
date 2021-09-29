@@ -8,10 +8,10 @@ Change in local to upload to Github
 Upload successful
 
 Trial 2
-Upload successful
+successful
 
 Trial 3
-successful
+Upload successful
 
 Change in Github on browser Trial 2/3 (with one deletion above - line 14)
 
