@@ -11,7 +11,7 @@ Trial 2
 Upload successful
 
 Trial 3
-Upload successful
+successful
 
-Change in Github on browser Trial 2
+Change in Github on browser Trial 2/3 (with one deletion above - line 14)
 
